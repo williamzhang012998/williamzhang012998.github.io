@@ -1,0 +1,56 @@
+body{
+	background-image: url("background.jpg");
+	text-align: center;
+}
+
+img {
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+a {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#header{
+	text-align: center;
+	background: #DF3030;
+	color: #FFFFFF;
+	font-size: 85px;
+	margin-top: 0;
+}
+
+.bio{
+	-webkit-margin-start: 60px;
+    	-webkit-margin-end: 60px;
+}
+
+.subheader{
+	font-weight: bold;
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+.date{
+	font-style: italic;
+	color: #FFFFFF;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+/* visited link */
+a:visited {
+    color: purple;
+}
+/* mouse over link */
+a:hover {
+    color: orange;
+}
+/* selected link */
+a:active {
+    color: purple;
+}

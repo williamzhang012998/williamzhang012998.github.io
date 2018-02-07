@@ -1,0 +1,39 @@
+body{
+	background-image: url("background.jpg");
+}
+
+#header{
+	text-align: center;
+	background: #3172ae;
+	color: #FFFFFF;
+	margin-top: 0;
+	font-size: 85px;
+}
+
+.subheader{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.date{
+	font-style: italic;
+}
+
+/* link color */
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: white;
+}
+
+}
